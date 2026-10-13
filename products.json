@@ -1,0 +1,52 @@
+{
+  "title": "暮らしの商品リンク集",
+  "products": [
+    {
+      "id": "matsuya-us10",
+      "title": "松屋 牛めしの具（プレミアム仕様）135g×10食",
+      "category": "food",
+      "target_url": "https://item.rakuten.co.jp/matsuya/us10/",
+      "description": "電子レンジ500Wで3分20秒。冷凍庫に置く個包装の牛めしの具。",
+      "caution": "−18℃以下で保存。賞味期限は製造日から冷凍保管で1年。到着後1年の保証ではありません。原材料・アレルゲンは商品ラベルで確認してください。ご飯は付属しません。",
+      "brand_evidence": {
+        "verified": true,
+        "name": "松屋フーズ",
+        "official_url": "https://www.matsuyafoods.co.jp/whatsnew/topics/110929.html",
+        "checked_at": "2026-10-13T13:18:00+09:00"
+      },
+      "seller_evidence": {
+        "verified": true,
+        "relationship": "official",
+        "name": "株式会社松屋フーズ",
+        "source_url": "https://www.rakuten.co.jp/matsuya/info.html",
+        "checked_at": "2026-10-13T13:18:00+09:00"
+      },
+      "innovation_evidence": {
+        "verified": true,
+        "feature": "135gの個包装・電子レンジ調理対応",
+        "benefit": "必要な袋数だけ温められる。調理時間は商品記載の目安。",
+        "source_url": "https://item.rakuten.co.jp/matsuya/us10/",
+        "checked_at": "2026-10-13T13:18:00+09:00"
+      },
+      "price_evidence": {
+        "verified": true,
+        "current_yen": 3480,
+        "reference_yen": 5000,
+        "same_variant": true,
+        "includes_points": false,
+        "includes_conditional_coupon": false,
+        "reference_type": "manufacturer_list_price",
+        "source_url": "https://item.rakuten.co.jp/matsuya/us10/",
+        "reference_source_url": "https://item.rakuten.co.jp/matsuya/us10/",
+        "discount_percent": 30.4,
+        "checked_at": "2026-10-13T13:18:00+09:00"
+      },
+      "stock_evidence": {
+        "verified": true,
+        "in_stock": true,
+        "source_url": "https://item.rakuten.co.jp/matsuya/us10/",
+        "checked_at": "2026-10-13T13:18:00+09:00"
+      }
+    }
+  ]
+}
