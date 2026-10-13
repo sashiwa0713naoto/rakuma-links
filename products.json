@@ -12,21 +12,21 @@
         "verified": true,
         "name": "松屋フーズ",
         "official_url": "https://www.matsuyafoods.co.jp/whatsnew/topics/110929.html",
-        "checked_at": "2026-10-13T13:18:00+09:00"
+        "checked_at": "2026-10-13T13:15:00+09:00"
       },
       "seller_evidence": {
         "verified": true,
         "relationship": "official",
         "name": "株式会社松屋フーズ",
         "source_url": "https://www.rakuten.co.jp/matsuya/info.html",
-        "checked_at": "2026-10-13T13:18:00+09:00"
+        "checked_at": "2026-10-13T13:15:00+09:00"
       },
       "innovation_evidence": {
         "verified": true,
         "feature": "135gの個包装・電子レンジ調理対応",
         "benefit": "必要な袋数だけ温められる。調理時間は商品記載の目安。",
         "source_url": "https://item.rakuten.co.jp/matsuya/us10/",
-        "checked_at": "2026-10-13T13:18:00+09:00"
+        "checked_at": "2026-10-13T13:15:00+09:00"
       },
       "price_evidence": {
         "verified": true,
@@ -39,13 +39,13 @@
         "source_url": "https://item.rakuten.co.jp/matsuya/us10/",
         "reference_source_url": "https://item.rakuten.co.jp/matsuya/us10/",
         "discount_percent": 30.4,
-        "checked_at": "2026-10-13T13:18:00+09:00"
+        "checked_at": "2026-10-13T13:15:00+09:00"
       },
       "stock_evidence": {
         "verified": true,
         "in_stock": true,
         "source_url": "https://item.rakuten.co.jp/matsuya/us10/",
-        "checked_at": "2026-10-13T13:18:00+09:00"
+        "checked_at": "2026-10-13T13:15:00+09:00"
       }
     }
   ]
